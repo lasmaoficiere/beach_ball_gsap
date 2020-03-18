@@ -1,0 +1,19 @@
+{
+  "name": "gsap_ex_two",
+  "version": "1.0.0",
+  "description": "",
+  "main": "multiballs.js",
+  "scripts": {
+    "start": "parcel *.html --open",
+    "build": "parcel build *.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  },
+  "dependencies": {
+    "gsap": "^3.2.4"
+  }
+}
